@@ -10,7 +10,7 @@ Provides a list of all VMware Tools' URLs to access various components
 - Horizon
 - Log Insight
 - Network Insight
-- Oerations Manager (vROPs)
+- Operations Manager (vROPs)
 - Tenant for Operations App
 - Skyline
 - Usage Meter
